@@ -2,7 +2,7 @@
 
 **Disclaimer:** ⚠️
 
-This tool is provided for educational and authorized penetration testing purposes only. Use it **only** on networks for which you have explicit permission to test. The developer is not responsible for any misuse or damage resulting from its use.
+This tool is provided for **educational purposes only**. Use it **only** on networks for which you have explicit permission to test. The developer is not responsible for any misuse or damage resulting from its use.
 
 ## Overview
 
@@ -41,7 +41,7 @@ sudo ./deauther -i wlan0mon -a 00:11:22:33:44:55 -t ff:ff:ff:ff:ff:ff -r
 
 ## Ethical Use Notice⚠️
 
-This tool is meant for testing and educational purposes. Unauthorized deauthentication attacks can be illegal and unethical. Always obtain proper authorization before testing any network. The developer is not responsible for any misuse or damage resulting from its use.
+This tool is meant for **educational purposes**. Unauthorized deauthentication attacks can be illegal and unethical. Always obtain proper authorization before testing any network. **The developer is not responsible for any misuse or damage resulting from its use.**
  
 
 **License**
