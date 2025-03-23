@@ -46,4 +46,4 @@ This tool is meant for testing and educational purposes. Unauthorized deauthenti
 
 **License**
 
-This tool is licensed under [MIT License]()
+This tool is licensed under [MIT License](LICENSE)
